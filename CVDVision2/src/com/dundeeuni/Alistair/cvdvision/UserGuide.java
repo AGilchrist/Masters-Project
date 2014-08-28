@@ -1,3 +1,7 @@
+/*
+Code property of Alistair Gilchrist
+*/
+
 package com.dundeeuni.Alistair.cvdvision;
 
 import android.app.Activity;
