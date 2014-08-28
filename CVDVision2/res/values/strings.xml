@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CVDVision</string>
+    <string name="menu">CVDVision - Main Menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro1">See the world through your loved one\'s eyes</string>
+    <string name="intro2">Press the info icon in the top right of the screen for a full
+        user guide.</string>
+    <string name="intro3">Press the button below to create a User Profile.\n
+        You will be shown a series of C shapes drawn in different shades of
+        red, green or blue dots on a background comprised of grey dots.\n
+        You are asked to find the gap in the C and touch the section of the screen divided by
+        the white lines at the edges of the screen where you think the gap is located.\n
+        You DO NOT need to press the actual location of the gap and are encouraged not to 
+        as the application may misinterpret, instead please press the centre of the 
+        quadrant or close to the edge of the screen.\n
+        If the image is too difficult for you then please press the central box 
+        to skip to the next image.\n
+        In the top right hand side of the screen is a pencil icon that will allow you to run a
+        CVD simulation over the top of this test using either one of the three standard simulations
+        or a personal simulation created from a pre-existing profile.\n
+        Be Warned pressing one of the personal profile buttons will cause the program to
+        seemingly freeze for around 10 seconds, this is normal and the program is busy generating
+        simulation data for your chosen profile.</string>
+    <string name="start">Start Simulation</string>
+    <string name="start1">Start Calibration test</string>
+    <string name="stop">Stop</string>
+    <string name="info">User Guide</string>
+    <string name="userguide">Press the cog button found in the upper right of the screen after 
+        starting the application and have your colour blind person complete the small two 
+        minute test in order to build a profile for their specific CVD, and then name it, hit 
+        the enter key to close the keyboard and press the save profile button which will save 
+        your profile and return you to the main menu.\n\n
+        If you have at least one profile saved then a key button will be present in the top
+        right of the screen, press this to show a list of saved profiles, click on one to delete
+        the profile.\n\n
+   	    The cross icon in the top right of the screen will close the current application and 
+   	    return to the main menu or if at the main menu to close the application.\n\n
+   		After pressing the Start Simulation button from the main menu you will begin the 
+   		application with an initially clear camera view.\n
+   		You must press the pencil icon in the top right of the screen to show a dropdown
+   		menu with a series of various vision modes that you may select.\n
+        Be Warned pressing one of the perosnal profile buttons will cause the program to
+        seemingly freeze for around 10 seconds, this is normal and the program is busy generating
+        simulation data for your chosen profile.\n\n
+   		The camera icon in the top right of the screen is to take a photo of the current
+   		screen and save it to your SD card.</string>
+   	<string name="hint">Enter Name</string>
+   	<string name="name">Save Profile</string>
+    <string name="select">Choose your viewing mode</string>
+    <string name="Protan">Protan Sight</string>
+    <string name="Deuteran">Deuteran Sight</string>
+    <string name="Tritan">Tritan Sight</string>
+    <string name="BlackWhite">Monochromatic Sight</string>
+    <string name="pic">Take Picture</string>
+    <string name="title_activity_coloured_c">Coloured C Test</string>
+    <string name="prompt">Press enter when done to close the keyboard</string>
+
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CVDVision</string>
+    <string name="menu">CVDVision - Menú Principal</string>
+    <string name="action_settings">Configuración</string>
+    <string name="intro1">Ver el mundo a través de los ojos de su ser querido</string>
+    <string name="intro2">Pulse el icono de información en la parte superior derecha de la 
+        pantalla para obtener una guía de usuario completa.</string>
+    <string name="intro3">Presione el botón de abajo para crear un perfil de usuario.\n
+        Se le mostrará una serie de la formas C dibujadas en diferentes tonos de puntos rojos, 
+        verdes o azules en un fondo compuesto por puntos grises.\n
+        Se le pedirá que encontrar la brecha en el C y toque la sección de la pantalla 
+        dividida por las líneas blancas en los bordes de la pantalla en la que piensa la 
+        brecha se encuentra.\n
+        Usted no necesita presionar la ubicación real de la brecha y se son desalentado a 
+        como la puede aplicación malinterpretar, en lugar por favor pulse el centro del 
+        cuadrante o cerca del borde de la pantalla.\n
+        Si la imagen es demasiado difícil para ti, por favor, pulse el centro de la pantalla 
+        para pasar a la siguiente imagen.\n
+        En la parte superior derecha de la pantalla hay un icono de un lápiz que le permite 
+        llevar a cabo una simulación de CVD encima de esta prueba utilizando una de 
+        las tres simulaciones estándar o una simulación personales.\n
+        Te lo advierto pulsando uno de los botones de perfil personal hará que el programa 
+        que aparentemente se congele durante unos 10 segundos, esto es normal y el programa 
+        es laboral a generar datos desde la seleccionado perfil.</string>
+    <string name="start">Iniciar Simulación</string>
+    <string name="start1">iniciar la prueba de calibración</string>
+    <string name="stop">Deténgase</string>
+    <string name="info">Guía del usuario</string>
+    <string name="userguide">Pulse el botón de diente de rueda icono que se encuentra en la 
+        parte superior derecha de la pantalla después de iniciar la aplicación y han su color 
+        ciego persona completar una prueba que dura dos minutos para crear un perfil para su 
+        ECV específica. Póngale un nombre y pulse la tecla de retorno a cerca la teclado, a 
+        continuación, haga clic en el guardar perfil botón de que ahorrará su perfil y volver 
+        al menú principal.\n\n
+        Si usted tiene por lo menos uno perfil guardado, a continuación, un icono de la llave 
+        estará presente en la parte superior derecha de la pantalla, pulse este botón para 
+        mostrar una lista de perfiles guardados, haga clic en uno para eliminar el perfil.\n\n
+   	    El icono de la cruz en la parte superior derecha de la pantalla esté a la parada de la 
+   	    aplicación y, o bien volver al menú principal, o si en el menú principal de cerrar 
+   	    la aplicación.\n\n
+   		Después de pulsar el botón Iniciar simulación en el menú principal se iniciará la 
+   		aplicación inicialmente con una vista clara.\n
+   		Debe pulsar el icono del lápiz en la parte superior derecha de la pantalla para 
+   		mostrar un menú desplegable con una serie de diferentes modos de visión que puede 
+   		seleccionar.\n
+        Te lo advierto pulsando uno de los botones de perfil personal hará que el programa 
+        que aparentemente se congele durante unos 10 segundos, esto es normal y el programa 
+        es laboral a generar datos desde la seleccionado perfil.\n\n
+   		El icono de la cámara en la parte superior derecha de la pantalla es para tomar una 
+   		foto de la pantalla actual y guardarla en la tarjeta SD.</string>
+   	<string name="hint">Introducir nombre</string>
+   	<string name="name">guardar perfil</string>
+    <string name="select">Elige tu modo de visualización</string>
+    <string name="Protan">Protan visión</string>
+    <string name="Deuteran">Deuteran visión</string>
+    <string name="Tritan">Tritan visión</string>
+    <string name="BlackWhite">Monochromatic visión</string>
+    <string name="pic">Tomar foto</string>
+    <string name="title_activity_coloured_c">Coloreado C Prueba</string>
+    <string name="prompt">Pulse Intro cuando termine de cerrar el teclado</string>
+
+</resources>

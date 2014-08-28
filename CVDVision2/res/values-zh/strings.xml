@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CVDVision</string>
+    <string name="menu">CVDVision - 主菜单</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro1">看该世界通过该眼睛的一爱一</string>
+    <string name="intro2">按信息图标在屏幕的右上方为一个完整的用户指南。</string>
+    <string name="intro3">请按下面的按钮来创建一个用户配置文件。\n
+        您将看到一个系列的C形状绘制出来在深浅不一红色，绿色或蓝色点上一灰色背景。\n
+        你被要求发现在C该缺口和触摸该部分的该屏幕哪是分通过白线发现在该边缘的该屏幕哪里该差距是在位于。\n
+        你不需要按下的差距的实际位置，而你是从这个气馁，因为应用程序可能会误解，代替你应该按截面的中心或接近边缘。\n
+        如果图像太为难你，那么请按下中央框至跳到下一个图像。\n
+        在在屏幕的右上方是一个铅笔图标，这将允许您模拟色盲为了这次测试.\n
+        被警告,压制一钮为的个人资料会导致程序至貌似冻结为10秒左右，这是正常的，程序正忙生成仿真数据为您选择的配置文件。</string>
+    <string name="start">开始仿真</string>
+    <string name="start1">开始校准测试</string>
+    <string name="stop">停止</string>
+    <string name="info">用户指南</string>
+    <string name="userguide">启动应用程序后，找到了齿轮按钮在该顶部右边角落的该屏幕，再有你的您的色盲人完成两分钟的测试以创建一个配置文件其特定色盲。给它一个名称，然后按回车键即可关闭键盘，然后按保存配置按钮，这将节省您的个人资料并返回到主菜单。\n\n
+        如果你有保存至少一个配置文件，然后一键按钮会出现在屏幕的右上方，按下此按钮即可显示保存的配置文件的列表中，单击要删除的配置文件。\n\n
+        在屏幕的右上角的叉号图标将关闭当前应用程序并返回到主菜单，或如果在该主菜单然后关闭该应用。\n\n
+        从主菜单中按开始仿真按钮后，您将开始与一个初步明确摄影机视图的。\n
+        您必须按在屏幕的右上角的铅笔图标来显示一个下拉与菜单一系列不同的视觉模式你可以选择的从。\n
+        被警告,压制一钮为的个人资料会导致程序至貌似冻结为10秒左右，这是正常的，程序正忙生成仿真数据为您选择的配置文件。\n\n
+        在屏幕的右上角相机图标是取一照片当前屏幕的并保存到你的SD卡。</string>
+   	<string name="hint">输入一个名称</string>
+   	<string name="name">保存您的个人资料</string>
+    <string name="select">选择你的观看模式</string>
+    <string name="Protan">红色盲视力</string>
+    <string name="Deuteran">氘核看过来</string>
+    <string name="Tritan">视力特里坦</string>
+    <string name="BlackWhite">单色视线</string>
+    <string name="pic">取一照片</string>
+    <string name="title_activity_coloured_c">有色C测试</string>
+    <string name="prompt">按下回车键即可关闭键盘</string>
+
+</resources>

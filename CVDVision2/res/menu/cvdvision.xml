@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.dundeeuni.Alistair.cvdvision.CVDVisionActivity" >
+
+    <item android:id="@+id/Calibrate"
+          android:icon="@drawable/ic_cog"
+          android:title="@string/start1"
+          android:showAsAction="always" />
+    
+    <item android:id="@+id/Profile_Menu"
+       	  android:icon="@drawable/ic_account"
+          android:title="@string/select"
+          android:showAsAction="always" >
+        <menu>
+                             
+        </menu>
+    </item>
+    
+    <item android:id="@+id/Info"
+          android:icon="@drawable/ic_info"
+          android:title="@string/info"
+          android:showAsAction="always" />
+    
+    <item android:id="@+id/Stop"
+          android:icon="@drawable/ic_action_cancel"
+          android:title="@string/stop"
+          android:showAsAction="always" />
+    
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+
+</menu>

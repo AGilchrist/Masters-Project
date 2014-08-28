@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+ 	 android:id="@+id/Blank" 
+ 	 android:background="#000000">
+    
+     <Button
+        android:id="@+id/save_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true" 
+        android:layout_centerVertical="true" 
+        android:textSize="45sp"
+        android:textColor="@android:color/white"
+        android:text="@string/name" />
+     
+     <EditText
+         android:layout_width="fill_parent"
+         android:layout_alignParentBottom="true"   
+         android:layout_height="wrap_content"
+         android:hint="@string/hint" 
+         android:id="@+id/ProfileName"
+         android:background="@color/white">
+     </EditText>
+     
+     <TextView
+         android:id="@+id/text"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_above="@+id/ProfileName"
+         android:layout_centerHorizontal="true"
+         android:layout_marginBottom="91dp"
+         android:background="@color/white"
+         android:text="@string/prompt" 
+         android:textSize="35sp"/>
+
+</RelativeLayout>
+

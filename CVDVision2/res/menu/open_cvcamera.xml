@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.dundeeuni.Alistair.cvdvision.OpenCVCameraActivity" >
+
+    <item android:id="@+id/Mode_Menu"
+       	  android:icon="@drawable/ic_action_mode"
+          android:title="@string/select"
+          android:showAsAction="always" >
+        <menu>
+                  
+            <item android:id="@+id/Protan_Mode"
+                  android:title="@string/Protan" />
+            
+            <item android:id="@+id/Deuteran_Mode"
+                  android:title="@string/Deuteran" />
+            
+            <item android:id="@+id/Tritan_Mode"
+                  android:title="@string/Tritan" />
+            
+            <item android:id="@+id/Monochromatic"
+                  android:title="@string/BlackWhite" />
+            
+        </menu>
+    </item>
+    
+    <item android:id="@+id/Snapshot"
+          android:icon="@drawable/ic_action_picture"
+          android:title="@string/pic"
+          android:showAsAction="always" />
+    
+    <item android:id="@+id/Stop"
+          android:icon="@drawable/ic_action_cancel"
+          android:title="@string/stop"
+          android:showAsAction="always" />
+
+</menu>

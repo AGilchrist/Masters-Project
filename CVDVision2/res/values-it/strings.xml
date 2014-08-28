@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CVDVision</string>
+    <string name="menu">CVDVision - Menu Principale</string>
+    <string name="action_settings">impostazioni</string>
+    <string name="intro1">Vedere il mondo attraverso gli occhi del vostro amato</string>
+    <string name="intro2">Premere l\'icona informazioni in alto a destra dello schermo per una 
+        guida completa dell\'utente.</string>
+    <string name="intro3">Premere il pulsante qui sotto per creare un profilo utente.\n
+        Vi verrà mostrata una serie di C plasmare disegnato in diverse tonalità di rossi, 
+        verdi o blu puntini su uno sfondo composto di punti grigi.\n
+        Viene chiesto di trovare il varco nella C e toccare dello schermo sezione diviso per 
+        le linee bianche ai bordi dello schermo, in cui credi che il gap si trova collocato.\n
+        NON HAI bisogno di premere la posizione effettiva del gap e sono incoraggiati a non 
+        o l\'applicazione può interpretare male, invece premere il centro della sezione 
+        o vicino al bordo dello schermo.\n
+        Se l\'immagine è troppo difficile per voi, si prega di premere la casella centrale per 
+        passare all\'immagine successiva.\n
+        In alto a destra dello schermo è un\'icona di una matita che vi permetterà di eseguire 
+        una CVD simulazione sopra la parte superiore di questo test utilizzando una delle tre 
+        simulazioni standard o una personale simulazione creato da un profilo preesistente.\n
+        Essere avvertito, premendo uno dei profilo personale pulsanti farà sì che il programma 
+        di apparentemente congelare per circa 10 secondi, questo è normale e il programma è 
+        dati di simulazione generatrice occupati per il tuo profilo scelto.</string>
+    <string name="start">Inizia Simulazione</string>
+    <string name="start1">Inizia il test di calibrazione</string>
+    <string name="stop">Fermata</string>
+    <string name="info">Guida per l\'utente</string>
+    <string name="userguide">Premere il tasto ingranaggio icona si trovano in alto a destra 
+        dello schermo, dopo aver avviato l\'applicazione e avere la vostra daltonico persona 
+        correre attraverso piccolo di due minuti test al fine di costruire un profilo per la 
+        loro specifica CVD. Assegnare un nome al profilo e premere il tasto Invio per chiudere 
+        la tastiera, quindi premere il salvare profilo pulsante che comprimerà il vostro 
+        profilo e il ritorno voi al menu principale.\n\n
+        Se si dispone di almeno uno profilo salvato, poi un sull\'icona della chiave apparirà 
+        in alto a destra dello schermo, premere questo tasto per visualizzare un elenco dei 
+        profili salvato, fare clic su uno per eliminare il profile.\n\n
+   	    L\'icona croce in alto a destra dello schermo si chiude l\'applicazione corrente e 
+   	    tornare al menu principale o se, al menu principale chiude l\'applicazione.\n\n
+   		Dopo aver premuto il pulsante Start Simulation dal menu principale volontà inizierà 
+   		l\'applicazione con il vista inizialmente chiara.\n
+   		È necessario premere sull\'icona della matita in alto a destra dello schermo per 
+   		visualizzare un menu a discesa con una serie di diverse modalità di visione che è 
+   		possibile selezionare da.\n
+        Essere avvertito, premendo uno dei profilo personale pulsanti farà sì che il programma 
+        di apparentemente congelare per circa 10 secondi, questo è normale e il programma è 
+        dati di simulazione generatrice occupati per il tuo profilo scelto\n\n
+   		L\'icona della fotocamera in alto a destra dello schermo è di scattare una foto della 
+   		schermata corrente e salvarla nella scheda SD.</string>
+   	<string name="hint">Immettere un nome</string>
+   	<string name="name">salvare il profilo</string>
+    <string name="select">Scegli la modalità di visualizzazione</string>
+    <string name="Protan">vista Protan</string>
+    <string name="Deuteran">vista Deuteran</string>
+    <string name="Tritan">vista Tritan</string>
+    <string name="BlackWhite">vista Monochromatic</string>
+    <string name="pic">Scattare una foto</string>
+    <string name="title_activity_coloured_c">colorato C test</string>
+    <string name="prompt">Premere Invio quando fatto per chiudere la tastiera</string>
+
+</resources>

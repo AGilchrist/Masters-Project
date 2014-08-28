@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CVDVision</string>
+    <string name="menu">CVDVision - Hoofdmenu</string>
+    <string name="action_settings">vatting</string>
+    <string name="intro1">Zie de wereld door de ogen van een geliefde</string>
+    <string name="intro2">Druk op de info-pictogram in de rechterbovenhoek van het scherm 
+        voor een volledige handleiding.</string>
+    <string name="intro3">Druk op onderstaande knop om een gebruikersprofiel aanmaken.\n
+        Je krijgt te zien een reeks C vorm getekend in verschillende tinten van rood, groen 
+        of blauwe stippen op een achtergrond bestaat uit grijze stippen.\n
+        Je moet de kloof in de C te vinden en raak het gedeelte van het scherm gedeeld door 
+        de witte lijnen aan de randen van het scherm waar je denkt dat de kloof zich bevindt.\n
+        U hoeft niet te druk op de werkelijke locatie van de kloof en worden niet aangemoedigd 
+        aan, of de applicatie macht verkeerd interpreteren. In plaats daarvan kunt u op het 
+        midden van het sectie die bevat de kloof of dicht bij de rand van het scherm.\n
+        Als de afbeelding is te moeilijk voor u dan drukt u op de centrale doos om naar het 
+        volgende beeld.\n
+        In de rechterbovenhoek van het scherm is een potlood pictogram dat u zal toestaan ​​om lopen 
+        een CVD simulatie over bovenkant van deze test met behulp van een van de drie standaard 
+        simulaties of een persoonlijke simulatie gemaakt van een reeds bestaand profiel.\n
+        Wees gewaarschuwd persing op een van de persoonlijk profiel knoppen zorgt ervoor dat 
+        het programma om schijnbaar te bevriezen voor ongeveer 10 seconden, dit is normaal en 
+        het programma bezig genererende simulatie gegevens voor uw gekozen profiel.</string>
+    <string name="start">Start simulatie</string>
+    <string name="start1">Start Afdraaiproef</string>
+    <string name="stop">Stop</string>
+    <string name="info">gebruiker handboek</string>
+    <string name="userguide">Druk op de radertje knop in de rechterbovenhoek van het scherm na 
+        het starten van de applicatie en hebben uw persoon met Kleurenblindheid lopen door de 
+        kleine twee minuten test om een ​​profiel voor hun specifieke CVD. Geef het een noem en 
+        druk op de Return-toets om het toetsenbord te sluiten, vervolgens op het opslaan 
+        profiel knop zodat je profiel zal worden opgeslagen, U zult dan keert terug naar het 
+        hoofdmenu.\n\n
+        Als u tenminste een profiel opgeslagen een sleutel icoon zal verschijnen in de 
+        rechterbovenhoek van het scherm, drukt u op deze aan een lijst met opgeslagen 
+        profielen te tonen, klik er op een om het profiel te verwijderen.\n\n
+   	    Het pictogram kruis in de rechterbovenhoek van het scherm geeft de huidige toepassing 
+   	    te sluiten en terug te keren naar het hoofdmenu of indien bij het hoofdmenu om de 
+   	    toepassing te sluiten.\n\n
+   		Na het indrukken van de Start Simulatie knop van het hoofdmenu vindt u de applicatie 
+   		begint met een aanvankelijk helder camerabeeld.\n
+   		Klik op het het pictogram potlood in de rechterbovenhoek van het scherm om tonen een 
+   		dropdown-menu met een reeks van verschillende visie modi die u kunt selecteren van.\n
+        Wees gewaarschuwd persing op een van de persoonlijk profiel knoppen zorgt ervoor dat 
+        het programma om schijnbaar te bevriezen voor ongeveer 10 seconden, dit is normaal en 
+        het programma bezig genererende simulatie gegevens voor uw gekozen profiel.\n\n
+   		Klik op het camera-icoontje in de rechterbovenhoek van het scherm om neem een ​​foto 
+   		van het huidige scherm, en opslaan op de SD-kaart.</string>
+   	<string name="hint">Naam een invoeren</string>
+   	<string name="name">Sparen profiel</string>
+    <string name="select">Kies uw weergavemodus</string>
+    <string name="Protan">Protan zicht</string>
+    <string name="Deuteran">Deuteran zicht</string>
+    <string name="Tritan">Tritan zicht</string>
+    <string name="BlackWhite">Monochromatic zicht</string>
+    <string name="pic">Foto maken</string>
+    <string name="title_activity_coloured_c">Gekleurde C Test</string>
+    <string name="prompt">Druk op Enter als u klaar bent om het toetsenbord te sluiten</string>
+
+</resources>

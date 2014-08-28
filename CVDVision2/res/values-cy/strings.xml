@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CVDVision</string>
+    <string name="menu">CVDVision - Prif Ddewislen</string>
+    <string name="action_settings">Gosodiadau</string>
+    <string name="intro1">Yn gweld y byd drwy lygaid eich un annwyl</string>
+    <string name="intro2">Gwasgwch y icon wybodaeth yn y dde uchaf y sgrîn ar gyfer llawn 
+         canllaw i ddefnyddwyr.</string>
+    <string name="intro3">Gwasgwch y botwm isod i greu Proffil Defnyddiwr.\n
+        Byddwch yn dangos cyfres o C siapiau a dynnwyd mewn gwahanol arlliwiau o coch, 
+        gwyrdd neu las ar gefndir o dotiau llwyd.\n
+        Gofynnir i chi ddod o hyd i\'r bwlch yn y C, a chyffwrdd y rhan o\'r sgrin wedi\'i rannu 
+        gan y llinellau gwyn ar ymylon y sgrin, lle rydych yn meddwl bod y bwlch wedi ei leoli.\n
+        i PEIDIWCH angen i chi bwyso ar union leoliad y bwlch ac yn cael eu hannog i beidio 
+        wneud hyn, neu gall y cais gamddehongli, yn lle hynny os gwelwch yn dda gwasgwch y 
+        canol y cwadrant neu agos i ymyl y sgrin.\n
+        Os yw\'r ddelwedd yn rhy anodd i chi, os gwelwch yn dda gwasgwch y nghanol y sgrin i 
+        neidio at y ddelwedd nesaf.\n
+        Cliciwch ar yr eicon pensil yn y dde uchaf y sgrîn i ddewis efelychiad CVD i redeg 
+        dros ben y prawf hwn. Gallwch ddewis naill ai efelychiad safonol neu efelychiad 
+        bersonol a grëwyd o broffil bodoli eisoes\n
+        Byddwch yn rhybuddio bwyso un o\'r botymau proffil personol yn achosi i\'r rhaglen i 
+        ymddangos yn rhewi am tua 10 eiliad, mae hyn yn normal ac mae\'r 
+		rhaglen yn cynhyrchu brysur data efelychu ar gyfer eich proffil a ddewiswyd.</string>
+    <string name="start">Efelychu dechrau</string>
+    <string name="start1">Prawf Cychwyn Graddnodi</string>
+    <string name="stop">rhoi\'r gorau i</string>
+    <string name="info">canllaw defnyddwyr</string>
+    <string name="userguide">Gwasgwch y botwm cocsen a geir yn y dde uchaf y sgrin ar ôl 
+        cychwyn y cais ac wedi eich lliw person dall yn cwblhau prawf hir dwy funud er mwyn 
+        adeiladu proffil ar gyfer eu CVD penodol. Rhoi enw iddo, a daro \'r dychwelyd allweddol 
+        sy\'n bydd agos y bysellfwrdd, wedyn gwasgwch y arbed proffil botwm sy\'n fydd yn achub 
+        y cyn ydych yn dychwelyd i\'r brif ddewislen.\n\n
+        Os oes gennych o leiaf un proffil arbed, yna ’r allweddol botwm Bydd yn bresennol yng 
+        y dde uchaf y sgrin, y wasg hon i arddangos rhestr o broffiliau arbed, cliciwch ar un 
+        i ddileu proffil.\n\n
+   	    Mae\'r groes eicon yng nghornel dde uchaf y sgrin yw shutdown y cais a naill ai 
+   	    dychwelyd i\'r brif ddewislen neu os os yn y brif ddewislen yna cau\'r cais.\n\n
+   		Ar ôl pwyso\'r botwm Start Efelychu o\'r brif ddewislen, byddwch yn dechrau y cais 
+   		gyda golwg camera glir o unrhyw efelychiad CVD.\n
+   		Mae\'n rhaid i chi bwyso ar yr eicon pensil yn y dde uchaf y sgrin i ddangos 
+   		gwymplen gyda chyfres amrywiol gweledigaeth dulliau.\n
+        Byddwch yn rhybuddio bwyso un o\'r botymau proffil personol yn achosi i\'r rhaglen i 
+        ymddangos yn rhewi am tua 10 eiliad, mae hyn yn normal ac mae\'r 
+		rhaglen yn cynhyrchu brysur data efelychu ar gyfer eich proffil a ddewiswyd.\n\n
+   		Mae\'r eicon camera yng nghornel dde uchaf y sgrin yw cymryd llun o\'r sgrin gyfredol 
+   		a\'i gadw ar eich cerdyn DC.</string>
+   	<string name="hint">Rhowch Enw</string>
+   	<string name="name">arbed Proffil</string>
+    <string name="select">Dewiswch eich dull gwylio</string>
+    <string name="Protan">Protan Golwg</string>
+    <string name="Deuteran">Deuteran Golwg</string>
+    <string name="Tritan">Tritan Golwg</string>
+    <string name="BlackWhite">Monochromatic Golwg</string>
+    <string name="pic">Cymerwch Llun</string>
+    <string name="title_activity_coloured_c">Prawf Lliw C</string>
+    <string name="prompt">Phwyswch Enter pan fyddwch ei wneud i gau\'r bysellfwrdd</string>
+
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CVDVision</string>
+    <string name="menu">CVDVision - Menu Principal</string>
+    <string name="action_settings">Configurações</string>
+    <string name="intro1">Veja o mundo através dos olhos de seu amado</string>
+    <string name="intro2">Pressione o ícone de informação no superior direito canto da tela 
+        para um guia completo do usuário.</string>
+    <string name="intro3">Pressione o botão abaixo para criar um perfil de usuário.\n
+        Você será mostrado uma série de C forma tirado em diferentes tons de vermelhos, 
+        verdes ou azuis pontos em um fundo composto por pontos cinzentos.\n
+        Sua tarefa é encontrar a lacuna na C e tocar da tela a seção dividida pelas linhas 
+        brancas nas bordas da tela onde você acha que a lacuna está localizado.\n
+        Você NÃO precisa pressionar a localização real da lacuna e são encorajados para não, 
+        como a aplicação podem interpretar mal, ao invés por favor pressione o centro da 
+        seção ou perto da borda da tela.\n
+        Se a imagem é muito difícil para você, então por favor, pressione a caixa central 
+        para pular para a próxima imagem.\n
+        Em no canto superior direito da tela é um ícone de lápis que lhe permitirá executar 
+        uma CVD simulação sobre a parte superior do teste, tampouco usando uma das três a 
+        norma simulações ou uma um pessoal de simulação criado a partir de um pré-existente 
+        perfil.\n
+        Ser avisado pressionar um perfil pessoal botão fará com que o programa a aparentemente 
+        congelar por cerca de 10 segundos, o que é normal o programa é justo ocupados dados de 
+        simulação de geração  para o seu perfil escolhido.</string>
+    <string name="start">Iniciar Simulação</string>
+    <string name="start1">Teste de calibração Iniciar</string>
+    <string name="stop">Pare</string>
+    <string name="info">Guia do Usuário</string>
+    <string name="userguide">Pressione o botão cog encontrado no canto superior direito da 
+        tela após o início da aplicação e têm a sua cor cego pessoa completar o pequeno de 
+        dois minutos teste a fim de construir um perfil para sua DCV específico. Dê-lhe um 
+        nome e pressione a tecla Enter para fechar o teclado, em seguida, pressione o salvar 
+        botão perfil que irá salvar o perfil e retornar você para o menu principal.\n\n
+        Se você tiver pelo menos um perfil salvo depois um botão chave estará presente no 
+        canto superior direito da tela, pressione este para mostrar uma lista de perfis 
+        salvos, clique em um deles para excluir o perfil.\n\n
+   	    O cruz ícone no canto superior direito da tela vai fechar o aplicativo atual e voltar 
+   	    ao menu principal ou se no menu principal para fechar o aplicativo.\n\n
+   		Depois de pressionar o botão Start Simulation no menu principal, você vai começar a 
+   		aplicação com uma inicialmente clara câmera vista.\n
+   		Você deve pressionar o ícone de lápis no canto superior direito da tela para mostrar 
+   		um menu dropdown com uma série de diferente modos de visão que você pode selecionar a 
+   		partir de.\n
+        Ser avisado pressionar um perfil pessoal botão fará com que o programa a aparentemente 
+        congelar por cerca de 10 segundos, o que é normal o programa é justo ocupados dados de 
+        simulação de geração  para o seu perfil escolhido.\n\n
+   		Pressione o ícone da câmera no canto superior direito da tela o tirar uma foto da tela 
+   		atual e salvá-lo para o cartão SD.</string>
+   	<string name="hint">Digite uma nome</string>
+   	<string name="name">Salve Perfil</string>
+    <string name="select">Escolha o seu modo de visualização</string>
+    <string name="Protan">Protan Visão</string>
+    <string name="Deuteran">Deuteran Visão</string>
+    <string name="Tritan">Tritan Visão</string>
+    <string name="BlackWhite">Monocromático Visão</string>
+    <string name="pic">Tirar foto</string>
+    <string name="title_activity_coloured_c">Colorido C Teste</string>
+    <string name="prompt">Pressione Enter quando terminar para fechar o teclado</string>
+
+</resources>

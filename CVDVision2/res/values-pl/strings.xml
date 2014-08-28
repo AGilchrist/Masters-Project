@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CVDVision</string>
+    <string name="menu">CVDVision - Menu główne</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="intro1">Zobacz świat przez ukochaną osobą oczach</string>
+    <string name="intro2">Nacisnąć ikonę informacji w prawym górnym rogu ekranu, aby zobacz 
+        pełną instrukcji obsługi.</string>
+    <string name="intro3">Naciśnij poniższy przycisk, aby utworzyć profil użytkownika.\n
+        Zobaczysz serię C kształtów sporządzony w różnych odcieniach czerwonego, zielonego lub 
+        niebieskiego kropek na tle składającym się z szarymi kropkami.\n
+        Pojawi się pytanie, aby znaleźć lukę w C i dotknąć część ekranu sekcja podzielona 
+        przez białe linie na krawędziach ekranu, w których Twoim zdaniem luka znajduje.\n
+        Nie trzeba naciskać rzeczywistą lokalizację luka i zachęca się, aby nie, jako 
+        aplikacja może błędnie interpretować. Zamiast proszę nacisnąć środek z sekcji lub 
+        blisko krawędzi ekranu.\n
+        Jeśli obraz jest zbyt trudne, to proszę nacisnąć środkowy pudełko, aby przejść do
+        następnego obrazu.\n
+        W prawym górnym rogu ekranu jest ikona ołówka, który pozwala na symulację CVD Na 
+        wierzchu testu, przy użyciu jednej z trzech standardowych symulacji lub osobista 
+        symulacji utworzony z istniejącego profilu.\n
+        Ostrzegamy, naciskając osobista profil przycisk będzie powoduje, że program do 
+        pozornie zamrażać na około 10 sekund, to jest normalne, a program jest zajęty dane 
+        symulacji generowanie dla wybranego profilu.</string>
+    <string name="start">Start symulację</string>
+    <string name="start1">Start testu kalibracji</string>
+    <string name="stop">Stop</string>
+    <string name="info">Instrukcja obsługi</string>
+    <string name="userguide">Wcisnąć trybikiem w prawym górnym rogu ekranu, po uruchomieniu 
+        aplikacji i mają colorblind osobę zakończyć małych dwóch minutowy sprawdzian aby 
+        zbudować profil dla ich konkretnej CVD. Nadaj mu nazwę i naciśnij klawisz Enter, aby 
+        zamknąć klawiaturę, a następnie naciśnij przycisk Zapisz profil, który będzie zapisany 
+        profil i powrót do głównego menu.\n\n
+        Jeśli masz co najmniej jeden profil zapisany, Następnie klucz przycisk wola pojawić 
+        się w prawym górnym rogu ekranu, naciśnij to, aby pokazać listę zapisanych profili, 
+        kliknij na jednym, aby usunąć profil.\n\n
+   	    Ikona krzyż w prawym górnym rogu ekranu będzie zamknąć bieżącą aplikację i powrócić do 
+   	    menu głównego, lub jeśli już w menu głównym aby zamknąć aplikację.\n\n
+   		Po naciśnięciu przycisku start symulacji przycisk z menu głównego, ty zacząć aplikację 
+   		z klarownego camrea zobacz.\n
+   		Musisz nacisnąć ikonę ołówka w prawym górnym rogu ekranu, aby wyświetlić menu 
+   		rozwijane z szeregu różnych trybów wizja, które można wybrać z.\n
+        Ostrzegamy, naciskając osobista profil przycisk będzie powoduje, że program do pozornie 
+        zamrażać na około 10 sekund, to jest normalne, a program jest zajęty dane symulacji 
+        generowanie dla wybranego profilu.\n\n
+   		Ikona aparatu w prawym górnym rogu ekranu jest, aby zrobić zdjęcie aktualnego ekranu 
+   		i zapisać go na karcie SD.</string>
+   	<string name="hint">Wprowadź nazwę</string>
+   	<string name="name">Zapisz profil</string>
+    <string name="select">Wybierz swój tryb wizja</string>
+    <string name="Protan">Protan widok</string>
+    <string name="Deuteran">Deuteran widok</string>
+    <string name="Tritan">Tritan widok</string>
+    <string name="BlackWhite">Monochromatic widok</string>
+    <string name="pic">Zrób zdjęcie</string>
+    <string name="title_activity_coloured_c">Kolorowy C test</string>
+    <string name="prompt">Naciśnij przycisk Enter, gdy zrobić, aby zamknąć klawiaturę</string>
+
+</resources>

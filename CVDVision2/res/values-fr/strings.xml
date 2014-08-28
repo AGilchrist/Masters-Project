@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CVDVision</string>
+    <string name="menu">CVDVision - Menu principal</string>
+    <string name="action_settings">réglages</string>
+    <string name="intro1">Voir le monde à travers les yeux d\'un être cher</string>
+    <string name="intro2">Appuyez sur l\'icône d\'information en haut à droite de l\'écran 
+        pour un mode d\'emploi complet.</string>
+    <string name="intro3">Appuyez sur le bouton ci-dessous pour créer un profil d\'utilisateur.\n
+        Vous verrez une série de C formes dessiné dans différentes nuances de points rouges, 
+        verts ou bleus sur un fond composé de points gris.\n
+        Vous êtes demandé à trouver l\'écart dans le C et appuyez la sur section de l\'écran, 
+        divisé par les lignes blanches sur les bords de l\'écran, où vous pensez que le lacune 
+        est situé.\n
+        Vous n\'avez pas besoin d\'appuyer sur l\'emplacement réel de l\'écart et sont encouragés 
+        à ne pas à, puisque que l\'application peut mal interpréter, à la place s\'il vous 
+        plaît appuyez sur le centre du quadrant ou près du bord de l\'écran.\n
+        Si l\'image est trop difficile pour vous, alors s\'il vous plaît appuyez sur le centre 
+        de l\'écran pour passer à l\'image suivante.\n
+        Dans la partie en haut à droite de l\'écran est une icône de crayon permet qui vous 
+        permettra d\'exécuter une simulation de CVD sur le dessus de ce test en utilisant un ou 
+        l\'autre des trois simulations standard ou une simulation personnel créé à partir d\'un 
+        profil pré-existant.\n
+        Soyez averti en appuyant sur un profil personnel des bouton de cause la fera programme 
+        à apparemment geler pour à environ 10 secondes, ce qui est normal et le programme est 
+        occupé génération de simulation données pour votre profil choisi.</string>
+    <string name="start">Démarrer la simulation</string>
+    <string name="start1">Démarrer le test d\'étalonnage</string>
+    <string name="stop">Arrêtez</string>
+    <string name="info">Guide de l\'utilisateur</string>
+    <string name="userguide">Appuyez sur l\'icône rouage dans le coin supérieur droit de 
+        l\'écran après le démarrage de l\'application et vous avez votre daltoniens personne la 
+        fonctionner à travers le petit de deux minute test pour créer un profil pour leur CVD 
+        spécifique. Nommez-le et appuyez sur la touche de retour pour fermer le clavier, alors 
+        appuyez sur la sauver profil bouton qui permettra d\'économiser votre profil et vous 
+        revenez au menu principal.\n\n
+        Si vous avez au moins un profil enregistré, une touche icône sera présent dans en haut 
+        à droite de l\'écran, appuyez sur cette bouton pour afficher une liste des profils 
+        enregistrés, cliquez sur l\'un de supprimer le profil.\n\n
+   	    La une croix dans haut à droite de l\'écran est volonté fermer l\'application en cours 
+   	    et la retour soit de retourner au menu principal ou, si à au menu principal, fermez 
+   	    l\'application.\n\n
+   		Après avoir appuyer sur la Démarrer la simulation le bouton à partir du menu principal,
+   		 vous allez commencer l\'application avec une vue clair.\n
+   		Vous devez appuyer sur l\'icône de crayon en haut à droite de l\'écran pour afficher un 
+   		menu de déroulant avec une série de différents modes de vision que vous pouvez simuler.\n
+        Soyez averti en appuyant sur un profil personnel des bouton de cause la fera programme 
+        à apparemment geler pour à environ 10 secondes, ce qui est normal et le programme est 
+        occupé génération de simulation données pour votre profil choisi.\n\n
+   		L\'icône de l\'appareil photo en haut à droite de l\'écran est volonté prendre une photo 
+   		de l\'écran actuel et l\'enregistrer sur votre carte SD.</string>
+   	<string name="hint">Entrez un nom</string>
+   	<string name="name">enregistrer le profil</string>
+    <string name="select">Choisissez votre mode de visualisation</string>
+    <string name="Protan">Protan mire</string>
+    <string name="Deuteran">Deuteran mire</string>
+    <string name="Tritan">Tritan mire</string>
+    <string name="BlackWhite">Monochromatic mire</string>
+    <string name="pic">prendre une photo</string>
+    <string name="title_activity_coloured_c">Couleur C essai</string>
+    <string name="prompt">Appuyez sur Entrée lorsque vous avez terminé pour fermer le clavier</string>
+
+</resources>

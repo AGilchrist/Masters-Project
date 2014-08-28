@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CVDVision</string>
+    <string name="menu">CVDVision - príomh-roghchlár</string>
+    <string name="action_settings">Socruithe</string>
+    <string name="intro1">Féach ar an domhan trí do grá amháin ar na súile.</string>
+    <string name="intro2">Brúigh an deilbhín faisnéis i an ceart barr an scáileáin ar feadh 
+        treoir úsáideora iomlán.</string>
+    <string name="intro3">Brúigh an cnaipe seo thíos a chruthú Próifíl Úsáideora.\n
+        Beidh tú a thaispeáint sraith de C chruthanna i shades éagsúla  dearg, glas nó gorm 
+        de poncanna ar chúlra comhdhéanta de poncanna liath.\n
+        Iarrtar ort a aimsiú ar an mbearna atá sa C, agus teagmháil leis an rannóg ar an 
+        scáileán roinnte ag na línte bán ar an imill an scáileán nuair a cheapann tú go bhfuil 
+        an bhearna suite.\n
+        NÁ tú NACH gá chun brúigh an suíomh iarbhír an bhearna, agus ní spreagtar é seo a 
+        dhéanamh, de réir mar an t-iarratas féadfaidh misinterpret, in ionad le do thoil 
+        brúigh ar an lár an cheathrú nó in aice leis an imeall an scáileán.\n
+        Má tá an íomhá ró-deacair duit le do thoil ansin brúigh an bosca láir chun skip 
+        to an íomhá ar aghaidh.\n
+        Sa thaobh na láimhe deise den scáileán is deilbhín peann luaidhe a ligfidh insamhalta 
+        CVD tú a reáchtáil thar barr na tástála calabraithe, ceachtar ag baint úsáide as ceann 
+        amháin de na trí insamhaltaí caighdeánach nó trí úsáid a bhaint as próifíl phearsanta 
+        atá ann cheana féin.\n
+        Bí rabhadh cnaipe ar cheann de na próifíl phearsanta cnaipí a bheidh faoi deara an 
+        clár a reo is cosúil gcruthaíonn sé ar feadh thart ar 10 soicind, is é seo gnáth agus 
+        is é ghnóthach an clár sonraí a ghiniúint insamhalta do do phróifíl roghnaithe.</string>
+    <string name="start">Tosaigh Insamhladh</string>
+    <string name="start1">Tosaigh calabrú tástála</string>
+    <string name="stop">Stop</string>
+    <string name="info">Treoir Úsáideora</string>
+    <string name="userguide">Brúigh an cog cnaipe fáil i uachtarach ar dheis ar an scáileán 
+        tar éis tosú an t-iarratas, agus tá an duine dall dath a chomhlánú tástáil fada beag 
+        dhá nóiméad d\'fhonn a thógáil próifíl haghaidh a n-CVD ar leith. Thabhairt dó an 
+        t-ainm agus brúigh an eochair ar ais a dhúnadh ar an méarchlár, ansin brúigh an cnaipe 
+        phróifíl a shábháil a shábháil agus ar ais tú go dtí an príomh-roghchlár.\n\n
+        Má tá tú próifíl amháin ar a laghad shábháil, ansin a cnaipe eochair beidh bheith i 
+        láthair i an ceart barr an scáileáin, preas seo a thaispeáint a liosta de na shábháil 
+        próifílí, cliceáil ar cheann a scriosadh an bpróifíl.\n\n
+   	    é an deilbhín tras i an ceart barr an scáileáin beidh dhúnadh ar an iarratas reatha 
+   	    agus ar ais go dtí an príomh-roghchlár nó más rud é ag an príomh-roghchlár a dhúnadh 
+   	    an t-iarratas.\n\n
+   		Tar éis an cnaipe an cnaipe Tosaigh Insamhladh ó na príomh-roghchlár a bheidh tú tús 
+   		an t-iarratas le léargas soiléir ceamara dtús.\n
+   		Ní mór duit brúigh an deilbhín peann luaidhe i an ceart barr an scáileáin a thaispeáint
+   		 roghchlár anuas le sraith de mhodhanna radharc éagsúla gur féidir leat a roghnú ó.\n
+        Bí rabhadh cnaipe ar cheann de na próifíl phearsanta cnaipí a bheidh faoi deara an 
+        clár a reo is cosúil gcruthaíonn sé ar feadh thart ar 10 soicind, is é seo gnáth agus 
+        is é ghnóthach an clár sonraí a ghiniúint insamhalta do do phróifíl roghnaithe.\n\n
+   		Is é an deilbhín ceamara i an ceart barr an scáileáin tá a ghlacadh le grianghraf de 
+   		an scáileán reatha agus é a shábháil ar do chárta SD.</string>
+   	<string name="hint">Iontráil Ainm</string>
+   	<string name="name">Sábháil Próifíl</string>
+    <string name="select">Roghnaigh do mód féachana</string>
+    <string name="Protan">radharc PROTAN</string>
+    <string name="Deuteran">radharc DEUTERAN</string>
+    <string name="Tritan">radharc TRITAN</string>
+    <string name="BlackWhite">radharc MONOCHROMATIC</string>
+    <string name="pic">Tóg Pictiúr</string>
+    <string name="title_activity_coloured_c">Daite C Tástáil</string>
+    <string name="prompt">Preas isteach nuair a dhéanamh a dhúnadh ar an méarchlár</string>
+
+</resources>

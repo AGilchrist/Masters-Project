@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CVDVision</string>
+    <string name="menu">CVDVision - Hauptmenü</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="intro1">Sehen Sie die Welt durch die Augen Ihrer Liebsten die</string>
+    <string name="intro2">Drücken Sie die Info-Symbol in der oberen rechten Ecke des 
+        Bildschirms für eine vollständige Anleitung.</string>
+    <string name="intro3">Drücken Sie die Taste unten, um ein Benutzerprofil zu erstellen.\n
+        Eine Reihe von C-Formen werden in verschiedenen Schattierungen von rot, grün oder 
+        blaue Punkte auf einem Hintergrund von grauen Punkten gezogen werden.\n
+        Sie werden gebeten, die Lücke in der C zu finden und berühren den Bereich des 
+        Bildschirms, geteilt durch die weißen Linien an den Rändern des Bildschirms, wo Sie 
+        denken, die Lücke befindet.\n
+        Sie brauchen nicht, um die tatsächliche Lage der Lücke drücken und sind entmutigt 
+        daraus, als die Anwendung möglicherweise falsch interpretieren, stattdessen bitte 
+        drücken Sie die Mitte des Quadranten oder schließen Sie an den Rand des Bildschirms.\n
+        Wenn das Bild ist zu schwierig für Sie, dann drücken Sie bitte die Mitte des 
+        Bildschirms, um zum nächsten Bild zu springen.\n
+        Seien Sie gewarnt, Drücken einer der persönlichen Profil Tasten für ein wird Ursache 
+        die Programm zu scheinbar für ca 10 Sekunden einfrieren, das ist normal, die 
+        Programm ist nur Erzeugungssimulationsdaten für Ihr ausgewähltes Profil.</string>
+    <string name="start">Simulation starten</string>
+    <string name="start1">Kalibrierung starten Test</string>
+    <string name="stop">Stopp</string>
+    <string name="info">Bedienungsanleitung</string>
+    <string name="userguide">Drücken Sie die Zahn Symbol in der oberen rechten Ecke des 
+        Bildschirms nach dem Start der Anwendung und lassen Sie Ihre farbenblind Person 
+        komplette eine Zwei-Minuten-Test, um ein Profil für ihre spezifischen CVD bauen. 
+        Nennen Sie es und drücken Sie die return-Taste welche die Tastatur zu schließen wird, 
+        dann drücken Sie die Save-Schaltfläche Profil dieser Wille Ihr Profil zu speichern und 
+        kehrt Sie zum Hauptmenü.\n\n
+        Wenn Sie mindestens ein Profil gespeichert haben, dann wird vorhanden ein Schlüssel-Taste 
+        in der oberen rechten Ecke des Bildschirms, drücken Sie diese, um eine Liste der 
+        gespeicherten Profile, klicken Sie auf einen, um das Profil zu löschen.\n\n
+   	    Das Kreuz-Symbol in der oberen rechten Ecke des Bildschirms ist wird Sie zurück in 
+   	    das Hauptmenü oder wenn bei im Hauptmenü die Anwendung zu schließen.\n\n
+   		Nach dem Drücken der Start Simulation Taste aus dem Hauptmenü Sie beginnen mit einem 
+   		Kameraansicht, die frei von jeder CVD-Simulation ist.\n
+   		Drücken Sie die Bleistift-Symbol in der oberen rechten Ecke des Bildschirms, um 
+   		Anzeige ein Dropdown-Menü mit einer Reihe von verschiedenen Vision Modi, die 
+   		Sie wählen aus.\n
+        Seien Sie gewarnt, Drücken einer der persönlichen Profil Tasten für ein wird Ursache 
+        die Programm zu scheinbar für ca 10 Sekunden einfrieren, das ist normal, die 
+        Programm ist nur Erzeugungssimulationsdaten für Ihr ausgewähltes Profil.\n\n
+   		Das Kamera-Symbol in der oberen rechten Ecke des Bildschirms ist es, ein Foto des 
+   		aktuellen Bildschirms zu nehmen und speichern Sie es auf Ihrer SD-Karte.</string>
+   	<string name="hint">Geben Sie den Namen</string>
+   	<string name="name">Profil speichern</string>
+    <string name="select">Select your viewing mode</string>
+    <string name="Protan">Protan Sehenswürdigkeit</string>
+    <string name="Deuteran">Deuteran Sehenswürdigkeit</string>
+    <string name="Tritan">Tritan Sehenswürdigkeit</string>
+    <string name="BlackWhite">Monochromatic Sehenswürdigkeit</string>
+    <string name="pic">Bild aufnehmen</string>
+    <string name="title_activity_coloured_c">Farbige C-Test</string>
+    <string name="prompt">Drücken Sie die Eingabetaste, wenn getan, um die Tastatur zu schließen</string>
+
+</resources>

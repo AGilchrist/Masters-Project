@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CVDVision</string>
+    <string name="menu">CVDVision - Huvudmeny</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="intro1">Se världen genom ögonen på en älskad</string>
+    <string name="intro2">Tryck på information ikonen i det övre högra hörnet på skärmen för 
+        en komplett användarhandbok.</string>
+    <string name="intro3">Tryck på knappen nedan för att skapa en användarprofil.\n
+        Du kommer att visas en serie av C-former dras i olika nyanser av röda, gröna eller 
+        blå prickar på en bakgrund bestående av grå prickar.\n
+        Du uppmanas att hitta luckan i C och beröra den del av skärmen dividerat med de vita 
+        linjerna på kanterna på skärmen där du tror att gapet är belägen.\n
+        Du behöver INTE måste trycka på den faktiska platsen för gapet och är uppmuntras att 
+        inte eftersom ansökan kan misstolka, istället vänligen tryck mitt på sektionen eller 
+        nära kanten av skärmen.\n
+        Om bilden är för svårt för dig vänligen tryck på centrum låda för att hoppa till 
+        nästa bild.\n
+        I det övre högra sidan av skärmen är en pennikon som gör att du kan köra en CVD 
+        simulering över toppen av detta test, med hjälp av antingen en av de tre standard 
+        simuleringar eller en personlig simulering skapas från en befintlig profil.\n
+        Varnas trycka på en av de personliga profil knapparna kommer att orsaka programmet 
+        till synes frysa i ca 10 sekunder, är detta normalt och programmet är upptagen 
+        genererande uppgifter för din valda profil.</string>
+    <string name="start">Börja Simulering</string>
+    <string name="start1">Starta kalibrering testet</string>
+    <string name="stop">Stopp</string>
+    <string name="info">Användarhandbok</string>
+    <string name="userguide">Tryck på kugge knappen finns i det övre högra hörnet på skärmen 
+        när du startar programmet och har din färg blind person fullständig den lilla två 
+        minuters testet för att bygga upp en profil för sin specifika CVD. Ge den ett namn 
+        och tryck på returtangenten för att stänga tangentbordet, tryck sedan på Spara profil 
+        knappen denna vilja spara din profil och avkastning till huvudmenyn.\n\n
+        Om du har minst en profil sparas, en nyckel knapp kommer att finnas i det övre högra 
+        hörnet av skärmen, tryck på denna för att visa en lista över sparade profiler, klicka 
+        på en för att ta bort profilen.\n\n
+   	    Den korset-ikonen i det övre högra hörnet av skärmen kommer att stänga det ström 
+   	    applikation och återgå till huvudmenyn eller om på huvudmenyn för att stänga applikation.\n\n
+   		När du har tryckt på Start Simulation knappen från huvudmenyn kommer du att börja 
+   		ansöknings med en från början klar kameravy.\n
+   		Du måste trycka på pennikonen i det övre högra hörnet av skärmen för att visa en 
+   		rullgardinsmeny med en rad olika visioner lägen som du kan välja från.\n
+        Varnas trycka på en av de personliga profil knapparna kommer att orsaka programmet 
+        till synes frysa i ca 10 sekunder, är detta normalt och programmet är upptagen 
+        genererande uppgifter för din valda profil.\n\n
+   		Kameran ikonen i det övre högra hörnet av skärmen är att ta en bild av den aktuella 
+   		skärmen och spara den på ditt SD-kort.</string>
+   	<string name="hint">Ange ett namn</string>
+   	<string name="name">Spara profil</string>
+    <string name="select">Välj ett visningsläge</string>
+    <string name="Protan">Protan sikte</string>
+    <string name="Deuteran">Deuteran sikte</string>
+    <string name="Tritan">Tritan sikte</string>
+    <string name="BlackWhite">Monokromatisk sikte</string>
+    <string name="pic">Ta en bild</string>
+    <string name="title_activity_coloured_c">Färgad C-test</string>
+    <string name="prompt">Tryck på enter när du är klar för att stänga tangentbordet</string>
+
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CVDVision</string>
+    <string name="menu">CVDVision - aðalvalmynd</string>
+    <string name="action_settings">Stillingar</string>
+    <string name="intro1">Sjá heiminn með augum ástvinar þíns</string>
+    <string name="intro2">Ýta á info táknið efst í hægra horninu á skjánum fyrir fullt handbók.</string>
+    <string name="intro3">Ýta á hnappinn hér að neðan til að búa til notanda snið.\n
+        Þú verður sýnd röð af C stærðum dregin í mismunandi tónum af rauðum, grænum eða bláum 
+        punktum á bakgrunni sem samanstendur af gráum punktum.\n
+        Þú ert beðinn um að finna bilið í C og snerta þann hluta skjásins deilt með hvítu 
+        línurnar á brúnir skjásins þar sem þú heldur að bilið er staðsett.\n
+        Þú Ekki þarf að ýta á raunverulega staðsetningu bilið og eru kjark úr þessu eins og 
+        the program kann mistúlka, í stað skaltu ýta á miðju af kafla eða nálægt brún skjásins.\n
+        Ef myndin er of erfitt fyrir þig þá skaltu ýta á Mið reit til að stökkva yfir í 
+        næstu mynd.\n
+        Í the toppur réttur hönd hlið of the skjár er blýantur táknið sem mun leyfa þér að 
+        keyra a CVD uppgerð yfir the toppur af þessu prófi með því að nota annað hvort eitt 
+        af þremur staðall uppgerð eða a persónulegar upplýsingar sem er þegar til.\n
+        Vera vara smella á einn af persónulega uppsetningu hnappa mun valda forritið til 
+        virðist frjósa í um 10 sekúndur, þetta er eðlilegt og the program er upptekinn gögn 
+        kynslóð uppgerð fyrir valið prófíl þínum.</string>
+    <string name="start">Hefja uppgerð</string>
+    <string name="start1">Byrja kvörðunarprófun</string>
+    <string name="stop">Stöðva</string>
+    <string name="info">Notandi leiðbeina</string>
+    <string name="userguide">Ýta á Cog hnappinn staðsett efst í hægra horninu á skjánum og 
+        hafa manneskja með blindu lit fara í gegnum á litla tveggja mínútna próf í því skyni 
+        að byggja upp upplýsingar um tiltekna CVD þeirra. Gefa það nafn og ýta á Enter til að 
+        loka á lyklaborðinu, smelltu á vista vangasvipur hnappinn að vista prófíl þínum og 
+        aftur þú í aðalvalmyndina.\n\n
+        Ef þú ert að minnsta kosti einn prófíll vistaður, þá lykillinn hnappinn mun vera til 
+        staðar í efst til hægri á skjánum, styddu þetta til að sýna lista yfir vistaðar sniða 
+        smellirðu á einn til að eyða profile.\n\n
+   	    Krossinn í efstu í hægra horninu á skjánum mun loka núverandi umsókn og fara aftur í 
+   	    aðalvalmynd eða ef á aðalvalmynd til að loka forritinu.\n\n
+   		Eftir því að ýta á Start Simulation hnappur frá the aðalæð valmyndinni sem þú hefst 
+   		umsókn með skýr myndavél útsýni.\n
+   		Þú verður að ýta á blýantur helgimynd í efra hægra horninu á skjánum til að sýna 
+   		fellilistanum með röð af ýmsar sýn stillingar sem þú getur valið frá.\n
+        Vera vara smella á einn af persónulega uppsetningu hnappa mun valda forritið til 
+        virðist frjósa í um 10 sekúndur, þetta er eðlilegt og the program er upptekinn gögn 
+        kynslóð uppgerð fyrir valið prófíl þínum.\n\n
+   		Táknmyndin myndavél í efst í hægra á skjánum er að taka mynd af núverandi skjánum 
+   		og vista það á SD kortið þitt.</string>
+   	<string name="hint">sláðu inn nafn</string>
+   	<string name="name">vista prófíl</string>
+    <string name="select">Veldu útsýni háttur</string>
+    <string name="Protan">Protan sjón</string>
+    <string name="Deuteran">Deuteran sjón</string>
+    <string name="Tritan">Tritan sjón</string>
+    <string name="BlackWhite">Monochromatic sjón</string>
+    <string name="pic">taka mynd</string>
+    <string name="title_activity_coloured_c">litað C próf</string>
+    <string name="prompt">Ýttu á Enter þegar gert að loka lyklaborðið</string>
+
+</resources>
